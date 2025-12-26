@@ -4,11 +4,12 @@ wizualizacja procesu przemysłowego "SCADA"
 
 I etap - plany i założenia:
   symulacja procesu destylacji, wizualizacja będzie zawierać:
-    1)ekran głowny, a na nim (jako odrębne obiekty w kodzie):
-      - 4 zbiorniki (magazynowanie, proces, odpady, produkt)
+    1)ekran głowny, a na nim:
+      - 4 zbiorniki (magazynowanie, proces x2, odpady, produkt)
       - grzałka w zbiorniku pracy
       - zawory pomiędzy zbiornikami
-      - panel z przyciskami itp. (start, stop, ustawianie temperatury, wywóz odpadów)
+      - rury
+      - panel z przyciskami itp. (start, stop, wywóz odpadów, wywóz produktu, dostawa surowca, stopien otwarcia zaworów)
       - przyciski przejscia do innych ekranów
     2)ekran błędów 
       - lista komunikatów błędów, np. jak ktoś uruchomi proces podgrzewania bez substancji
