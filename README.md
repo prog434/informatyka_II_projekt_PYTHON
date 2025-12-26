@@ -11,12 +11,7 @@ I etap - plany i założenia:
       - rury
       - panel z przyciskami itp. (start, stop, wywóz odpadów, wywóz produktu, dostawa surowca, stopien otwarcia zaworów)
       - przyciski przejscia do innych ekranów
-    2)ekran błędów 
-      - lista komunikatów błędów, np. jak ktoś uruchomi proces podgrzewania bez substancji
-      - pewnie zapis w pliku json 
-      - może jakiś przycisk reset
-      - przyciski przejscia do innych ekranów
-    3)ekran raportów 
+    2)ekran raportów 
       - lista co i kiedy udało się wyprodukować, ile wywieziono odpadów
       - pewnie zapis w pliku json
       - może jakiś przycisk reset, ewentualnie edycji ręcznej danych
